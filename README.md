@@ -36,6 +36,12 @@ A maintainable FastAPI project blueprint implemented with both Cookiecutter + Cr
 It includes a `src/` layout, locked dependencies, automated quality checks, container hardening,
 CI, and tested template-update workflows.
 
+### [devex-survey-cli](https://github.com/hkypro/devex-survey-cli)
+
+A small Python CLI for designing, validating, and analyzing developer experience surveys. It turns
+anonymous CSV responses into transparent reports across feedback loops, cognitive load, and flow
+state—without reducing developer experience to a single score.
+
 ---
 
 _Build for autonomy. Automate the repetition. Keep the path understandable._
